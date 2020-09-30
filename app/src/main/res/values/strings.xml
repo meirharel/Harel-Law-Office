@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Harel Law Office</string>
+    <string name="about_us">About us</string>
+    <string name="services">Services</string>
+    <string name="partners">Partners</string>
+    <string name="articles">Articles</string>
+    <string name="communicate">Communicate</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="share_files">Share Files</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="harel_law_office_notary"><![CDATA[Harel Law Office & Notary]]></string>
+</resources>
